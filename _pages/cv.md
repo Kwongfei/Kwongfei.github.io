@@ -16,43 +16,46 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Student Assistant
+  * School of Mathematics, South China University of Technology
+  * Duties included: Assist teachers in handling educational affairs
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Familiar with C++/Python/Matlab
+* Solve the $3 \times 3$ Rubik's Cube in 10 seconds
+* Table tennis, basketball, badminton
+* Origami paper
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  They are on the way!
   
-Talks
-======
-  <ul>{% for post in site.talks %}
+<!-- Talks
+====== -->
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+<!-- Teaching
+====== -->
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2015-2017: President of Rubik's Cube of Nanhai Middle School
+  * Nanhai Middle School
+  * Duties included: Create clubs, organize competitions, and carry out activities
+
+* 2019-2020: Vice Minister of Academic Department
+  * South China University of Technology
+  * Duties included: Organize academic lectures, and organize mathematical modeling competitions
+
+* 2019-2020: Vice Minister of Qisehua Volunteer Service Team
+  * South China University of Technology
+  * Duties included: Account management, material management, organizing or participating in voluntary activities, such as going to the countryside to support education, etc.
