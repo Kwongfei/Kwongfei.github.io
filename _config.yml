@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guangfei Liang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "M.S. student in computer science, mainly interested in Graph Neural Networks and Machine Learning."
   location         : "Shenzhen, China"
   employer         :
