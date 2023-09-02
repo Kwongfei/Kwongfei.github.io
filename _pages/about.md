@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in computer science at Institute of Computer Vision, Shenzhen University. I achieved the Bachelor (Mathematics and Applied Mathematics) from South China University of Technology. My interests includes graph neural networks, machine learning, support vector machine. Recently I focus on adaptive graph ploynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and broad applications. My research goal is to build theorectical guarantee and practical models that exhibits interpretability/robustness/stablity for real-world applications. Please feel free to contact me if you are interested in my research or my hobbies.
+I am a M.S. student in computer science at Institute of Computer Vision, Shenzhen University. I achieved the Bachelor (Mathematics and Applied Mathematics) from South China University of Technology. My interests includes graph neural networks, machine learning, support vector machine. Recently I focus on adaptive graph ploynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and their broad applications. My research goal is to build theorectical guarantee and practical models that exhibit interpretability/robustness/stablity for real-world applications. Please feel free to contact me if you are interested in my research or my hobbies.
 
 Honors & Awards
 ======
