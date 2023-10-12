@@ -22,7 +22,7 @@ Honors & Awards
  
 Research Experimence
 ======
-* IAPR/IEEEE Winter School on Biometrics, 2023
+* IAPR/IEEE Winter School on Biometrics, 2023
 * The 12th International Conference on Image and Graphics, 2023
 
 Publications
