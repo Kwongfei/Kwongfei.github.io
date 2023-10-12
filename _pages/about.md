@@ -23,7 +23,8 @@ Honors & Awards
 Research Experimence
 ======
 * IAPR/IEEEE Winter School on Biometrics, 2023
+* The 12th International Conference on Image and Graphics, 2023
 
 Publications
 ======
-  They are on the way!
+* Guangfei Liang, Zhihui Lai, and Heng Kong, "Support Vector Machine with Discriminative Low-Rank Embedding", *CAAI Transactions on Intelligence Technology*, 2023.
