@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guangfei Liang"
 title_separator          : "-"
 name                     : &name "Guangfei Liang"
-description              : &description "M.S. student in computer science, mainly interested in Graph Neural Networks and Machine Learning."
+description              : &description "M.S. student in computer science, mainly interested in Graph Neural Networks, Machine Learning and Support Vector Machines."
 url                      : https://Kwongfei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kwongfei/Kwongfei.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guangfei Liang"
   avatar           : "profile.jpg"
-  bio              : "M.S. student in computer science, mainly interested in Graph Neural Networks and Machine Learning."
+  bio              : "M.S. student in computer science, mainly interested in Graph Neural Networks, Machine Learning and Support Vector Machines."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""

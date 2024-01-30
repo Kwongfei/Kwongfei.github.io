@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include graph neural networks, machine learning, and support vector machines. Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and their broad applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications. Please feel free to contact me if you are interested in my research or my hobbies.
+I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNN), Machine Learning (ML), and Support Vector Machines (SVM). Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and their broad applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications.
+Please feel free to contact me if you are interested in my research or my hobbies.
 
 Honors & Awards
 ======
+* The Second Prize Scholarship, Shenzhen University, 2023
 * Special Scholarship, Shenzhen University, 2022
 * National Encouragement Scholarship, South China University of Technology, 2021
 * Honorable Mention, Mathematical Contest In Modeling Certificate of Achievement, 2021
