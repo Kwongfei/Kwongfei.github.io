@@ -22,14 +22,16 @@ Work experience
   
 Skills
 ======
-* Familiar with C++/Python/Matlab
-* Solve the $3 \times 3$ Rubik's Cube in 10 seconds
-* Table tennis, basketball, badminton
-* Origami paper
+* Research Interests: Graph Neural Networks (GNNs), Large Language Models (LLMs), and Support Vector Machines (SVMs).
+* Programming Languages: Python, C/C++, MATLAB, PASCAL, SQL.
+* Solve the $3 \times 3$ Rubik's Cube in 10 seconds.
+* Table tennis, basketball, badminton.
+* Origami paper by hand.
 
 Publications
 ======
-  They are on the way!
+* Liang G, Lai Z, Kong H. Support vector machine with discriminative low‐rank embedding. CAAI Transactions on Intelligence Technology, 2024.
+* Lai Z, Liang G, Zhou J, et al. A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM. Information Sciences, 2024.
   
 Service and leadership
 ======

@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNN), Machine Learning (ML), and Support Vector Machines (SVM). Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and their broad applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications.
+I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University, supervised by Prof. Zhihui Lai. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNNs), Large Language Models (LLMs) and Support Vector Machines (SVM). Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, large-scale graph, and LLMs in medical applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications.
 Please feel free to contact me if you are interested in my research or my hobbies.
+
+News!
+======
+2024-4-21: A paper is accepted by Information Sciences.
+2023-10-6: A paper is accepted by CAAI Transactions on Intelligence Technology.
 
 Honors & Awards
 ======
@@ -21,12 +26,13 @@ Honors & Awards
 * Second Prize, The 19th Mathematics and Science Competition of South China University of Technology, 2020
 * One Star Volunteer, South China University of Technology, 2020
 * Second Prize, National Olympiad in Informatics in Provinces, 2015, 2017
- 
+
 Research Experiences
 ======
-* IAPR/IEEE Winter School on Biometrics, 2023
-* The 12th International Conference on Image and Graphics, 2023
+* IAPR/IEEE Winter School on Biometrics, 2023 (Outstanding participation award).
+* The 12th International Conference on Image and Graphics, 2023.
 
 Publications
 ======
-* Guangfei Liang, Zhihui Lai, and Heng Kong, "Support Vector Machine with Discriminative Low-Rank Embedding", *CAAI Transactions on Intelligence Technology*, 2023.
+* Liang G, Lai Z, Kong H. Support vector machine with discriminative low‐rank embedding. CAAI Transactions on Intelligence Technology, 2024.
+* Lai Z, Liang G, Zhou J, et al. A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM. Information Sciences, 2024.
