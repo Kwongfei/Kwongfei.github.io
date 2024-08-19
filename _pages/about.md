@@ -13,7 +13,7 @@ Please feel free to contact me if you are interested in my research or my hobbie
 
 News!
 ======
-2024-6-7: I will be doing a short-term exchange at PolyU for three months under the supervision of Prof. Li Qing.
+2024-6-7: I will be doing a short-term exchange at PolyU for three months under the supervision of Prof. Qing Li.
 
 2024-4-21: A paper is accepted by Information Sciences.
 
