@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University, supervised by Prof. Zhihui Lai. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNNs), Large Language Models (LLMs) and Support Vector Machines (SVM). Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, large-scale graphs, and LLMs in medical applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications.
+I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University, supervised by Prof. Zhihui Lai. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNNs), Knowledge Graph, Large Language Models (LLMs) and Support Vector Machines (SVM). Recently I have focused on adaptive graph polynomial filters, heterogeneous/robust graph neural networks, knowledge graphs, and LLMs in medical applications. My research goal is to build theoretical guarantees and practical models that exhibit interpretability/robustness/stability for real-world applications.
 Please feel free to contact me if you are interested in my research or my hobbies.
 
 News!
 ======
-2024-6-7: I will be doing a short-term exchange at PolyU for three months under the supervision of Prof. Qing Li.
+2024-6-7: I am undertaking a short-term exchange at PolyU for three months under the supervision of Prof. Qing Li.
 
 2024-4-21: A paper is accepted by Information Sciences.
 
