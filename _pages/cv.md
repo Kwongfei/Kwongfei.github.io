@@ -30,8 +30,8 @@ Skills
 
 Publications
 ======
-* Liang G, Lai Z, Kong H. Support vector machine with discriminative low‐rank embedding. CAAI Transactions on Intelligence Technology, 2024. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12329).
-* Lai Z, Liang G, Zhou J, et al. A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM. Information Sciences, 2024. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025524005693).
+* Liang G, Lai Z, Kong H. Support vector machine with discriminative low‐rank embedding. CAAI Transactions on Intelligence Technology, 2024. [(Link)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12329).
+* Lai Z, Liang G, Zhou J, et al. A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM. Information Sciences, 2024. [(Link)](https://www.sciencedirect.com/science/article/abs/pii/S0020025524005693).
 * Three papers are under review.
   
 Service and leadership
