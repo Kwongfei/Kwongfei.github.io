@@ -12,6 +12,7 @@ I am a M.S. student in computer science at the Institute of Computer Vision, She
 Please feel free to contact me if you are interested in my research or my hobbies.
 
 **<font color=red>To whom may concern :)</font>**
+
 Now I am looking for a **<font color=red>PhD</font>** position aligning with my research concerns. 
 Here are some information about me.
 * **My research path.** After publishing two works related to SVM under Prof. Lai's supervised, I started thinking independently last year and step into Graph Neural Networks. Two works related to spectral GNNs and Graph Structure Learning respectively are done. After that, I started to focus on AI for health with GNNs and LLMs since I believe the research needs to return to actual requirements.
