@@ -17,14 +17,14 @@ Now I am looking for a **<font color=red>PhD</font>** position aligning with my 
 Here are some information about me.
 * **My research path.** After publishing two works related to SVM under Prof. Lai's supervision, I started thinking independently last year and stepped into Graph Neural Networks. Two works related to spectral GNNs and Graph Structure Learning respectively are done. After that, I started to focus on AI for health with GNNs and LLMs since I believe the research needs to return to actual requirements.
 * **Personality.** 
-  + I consider myself a **self-motivated** person with a **curiosity** about the world.
-  + In the past two years, I got about 15 rejections and experienced 7 rebuttals. Most of them were completed by me alone. Thus, I am **persistent** and dedicated to **rigorous** scientific research.
-  + I founded the Rubik's Cube Club in high school and hosted academic lectures at SCUT. These experiences have cultivated my **leadership**, **communication**, and **teamwork** skills. Currently, I am also leading the freshmen in my group to do two medical-related projects.
+  * I consider myself a **self-motivated** person with a **curiosity** about the world.
+  * In the past two years, I got about 15 rejections and experienced 7 rebuttals. Most of them were completed by me alone. Thus, I am **persistent** and dedicated to **rigorous** scientific research.
+  * I founded the Rubik's Cube Club in high school and hosted academic lectures at SCUT. These experiences have cultivated my **leadership**, **communication**, and **teamwork** skills. Currently, I am also leading the freshmen in my group to do two medical-related projects.
 * **My expectation.** I hope I can have 
-  + a good communication atmosphere. Good scientific research requires a lot of communication with others, including advice, insights, and critical comments from different perspectives.
-  + enough resources (such as several large memory GPUs for finetuning) in PhDs.
-  + the opportunity to research interns. I believe that research interns will allow me to exchange ideas with researchers in the industry and inspire me to do better research work.
-  + work-life balance. I believe that a good balance between life and research will be the fundamental motivation for my lifelong learning.
+  * a good communication atmosphere. Good scientific research requires a lot of communication with others, including advice, insights, and critical comments from different perspectives.
+  * enough resources (such as several large memory GPUs for finetuning) in PhDs.
+  * the opportunity to research interns. I believe that research interns will allow me to exchange ideas with researchers in the industry and inspire me to do better research work.
+  * work-life balance. I believe that a good balance between life and research will be the fundamental motivation for my lifelong learning.
 
 News!
 ======
