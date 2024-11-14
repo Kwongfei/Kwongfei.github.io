@@ -11,20 +11,20 @@ redirect_from:
 I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University, supervised by Prof. Zhihui Lai. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNNs), Knowledge Graph, Large Language Models (LLMs), AI for Health, and Support Vector Machines (SVM). Recently I have focused on integrating knowledge graphs in medical applications. My research goal is to contribute to the next generation of AI, building a novel system incorporating AI to revolutionize industrial production and citizen lifestyles.
 Please feel free to contact me if you are interested in my research or my hobbies.
 
-**<font color=red>To whom may concern :)</font>**
+**<font color=red>To whom it may concern :)</font>**
 
 Now I am looking for a **<font color=red>PhD</font>** position aligning with my research concerns. 
 Here are some information about me.
-* **My research path.** After publishing two works related to SVM under Prof. Lai's supervised, I started thinking independently last year and step into Graph Neural Networks. Two works related to spectral GNNs and Graph Structure Learning respectively are done. After that, I started to focus on AI for health with GNNs and LLMs since I believe the research needs to return to actual requirements.
+* **My research path.** After publishing two works related to SVM under Prof. Lai's supervision, I started thinking independently last year and stepped into Graph Neural Networks. Two works related to spectral GNNs and Graph Structure Learning respectively are done. After that, I started to focus on AI for health with GNNs and LLMs since I believe the research needs to return to actual requirements.
 * **Personality.** 
-  + I consider myself a **self-motivated** person with a **curiosity** about the world.
-  + In the pass two years, I got about 15 rejections and experienced 7 rebuttals. Most of them were completed by me alone. Thus, I believe I am **persistent** and dedicated to **rigorous** scientific research.
-  + I founded the Rubik's Cube Club in high school and hosted academic lectures at SCUT. These experiences have cultivated my **leadership**, **communication**, and **teamwork** skills. Currently, I am also leading the freshmen in my group to do two medical-related projects.
+  + I consider myself a **self-motivated** person with a **curiosity** about the world.
+  + In the past two years, I got about 15 rejections and experienced 7 rebuttals. Most of them were completed by me alone. Thus, I am **persistent** and dedicated to **rigorous** scientific research.
+  + I founded the Rubik's Cube Club in high school and hosted academic lectures at SCUT. These experiences have cultivated my **leadership**, **communication**, and **teamwork** skills. Currently, I am also leading the freshmen in my group to do two medical-related projects.
 * **My expectation.** I hope I can have 
-  + a good communication atmosphere. Good scientific research requires a lot of communication with others, including advice, insights, and critical comments from different perspectives.
-  + enough resources (such as several large memory GPUs for finetuning) in PhDs.
-  + the opportunity to research intrns. I believe that research interns will allow me to exchange ideas with researchers in the industry and inspire me to do better research work.
-  + work-life balance. I believe that a good balance between life and research will be the foundamental motivation for my lifelong learning.
+  + a good communication atmosphere. Good scientific research requires a lot of communication with others, including advice, insights, and critical comments from different perspectives.
+  + enough resources (such as several large memory GPUs for finetuning) in PhDs.
+  + the opportunity to research interns. I believe that research interns will allow me to exchange ideas with researchers in the industry and inspire me to do better research work.
+  + work-life balance. I believe that a good balance between life and research will be the fundamental motivation for my lifelong learning.
 
 News!
 ======
