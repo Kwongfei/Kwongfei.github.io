@@ -18,7 +18,7 @@ Here are some information about me.
 * **My research experience.** After publishing two works related to SVM under Prof. Lai's supervision, I started thinking independently last year and stepped into Graph Neural Networks. Two works related to spectral GNNs and Graph Structure Learning respectively are done. After that, I started to focus on AI for health with GNNs and LLMs since I am passionate about conducting research with practical applications.
 * **Personality.** 
   * I consider myself a **self-motivated** person with a **curiosity** about the world.
-  * In the past two years, I got about 15 rejections and experienced 7 rebuttals. Most of them were completed by myself. Thus, I am **persistent** and dedicated to **rigorous** scientific research.
+  * In the past two years, I got about 15 rejections, experienced 7 rebuttals and published two papers. Most of them were completed by myself. Thus, I am **persistent** and dedicated to **rigorous** scientific research.
   * I founded the Rubik's Cube Club in high school and hosted academic lectures at SCUT. These experiences have cultivated my **leadership**, **communication**, and **teamwork** skills. Currently, I am also leading the freshmen in my group to do two medical-related projects.
 * **My expectation.** I hope I can have 
   * a good communication atmosphere. Good scientific research requires a lot of communication with others, including advice, insights, and critical comments from different perspectives.
