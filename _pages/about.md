@@ -55,6 +55,6 @@ Research Experiences
 
 Publications
 ======
-* Liang G, Lai Z, Kong H. Support vector machine with discriminative low‐rank embedding. CAAI Transactions on Intelligence Technology, 2024. [(Link)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12329).
-* Lai Z, Liang G, Zhou J, et al. A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM. Information Sciences, 2024. [(Link)](https://www.sciencedirect.com/science/article/abs/pii/S0020025524005693).
+* Guangfei Liang, Zhihui Lai, and Heng Kong, “Support Vector Machine with Discriminative Low-Rank Embedding,” CAAI Transactions on Intelligence Technology, vol. 9, pp. 1249–1262, 2024, doi: 10.1049/cit2.12329. [(Link)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12329).
+* Zhihui Lai, Guangfei Liang, Jie Zhou, Heng Kong, Yuwu Lu, “A Joint Learning Framework for Optimal Feature Extraction and Multi-class SVM,” Information Sciences, vol. 671, p. 120656, 2024, doi: 10.1016/j.ins.2024.120656. [(Link)](https://www.sciencedirect.com/science/article/abs/pii/S0020025524005693).
 * Three papers are under review.
