@@ -11,7 +11,7 @@ redirect_from:
 I am a M.S. student in computer science at the Institute of Computer Vision, Shenzhen University, supervised by Prof. Zhihui Lai. I achieved a Bachelor (Mathematics and Applied Mathematics) from the South China University of Technology. My interests include Graph Neural Networks (GNNs), Knowledge Graph, Large Language Models (LLMs), AI for Health, and Support Vector Machines (SVM). Recently I have focused on integrating knowledge graphs in medical applications. My research goal is to contribute to the next generation of AI, building a novel system incorporating AI to revolutionize industrial production and citizen lifestyles.
 Please feel free to contact me if you are interested in my research or my hobbies.
 
-**<font color=red>To whom it may concern : )</font>**
+<!-- **<font color=red>To whom it may concern : )</font>**
 
 Now I am looking for a **<font color=red>PhD</font>** position aligning with my research interests. 
 Here are some information about me.
@@ -25,7 +25,7 @@ Here are some information about me.
   * enough resources (such as several large memory GPUs for finetuning) in PhDs.
   * the opportunity to research interns. I believe that research interns will allow me to exchange ideas with researchers in the industry and inspire me to do better research.
   * work-life balance. I believe that a good balance between life and research will be the fundamental motivation for my lifelong learning.
-Please feel free to contact me through my email (gf_liang_study@163.com).
+Please feel free to contact me through my email (gf_liang_study@163.com). -->
 
 News!
 ======
